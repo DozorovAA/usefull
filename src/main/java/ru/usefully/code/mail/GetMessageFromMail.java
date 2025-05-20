@@ -1,4 +1,4 @@
-package ru.digital.league.mail;
+package ru.usefully.code.mail;
 
 import java.util.Properties;
 import javax.mail.Flags;
@@ -27,7 +27,7 @@ public class GetMessageFromMail {
         /*Multipart multipart = (Multipart) message.getContent();
         System.out.println(multipart.getContentType());*/
 
-        message.setFlag(Flags.Flag.DELETED, true);
+        //message.setFlag(Flags.Flag.DELETED, true);
         inbox.close();
     }
 }

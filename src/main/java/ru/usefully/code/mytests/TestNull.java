@@ -1,4 +1,4 @@
-package ru.digital.league.mytests;
+package ru.usefully.code.mytests;
 
 public class TestNull {
 

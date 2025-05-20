@@ -1,4 +1,4 @@
-package ru.digital.league.mail;
+package ru.usefully.code.mail;
 
 import java.util.Date;
 import java.util.Properties;
